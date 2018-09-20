@@ -1,0 +1,4 @@
+venv/
+.idea/
+words.txt
+words_alpha.txt
